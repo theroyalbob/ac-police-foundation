@@ -342,4 +342,24 @@ footer {
 
 .error-page p {
     margin-bottom: 2rem;
+}
+
+/* Construction Page */
+.construction-page {
+    padding-top: 100px; /* Account for fixed navbar */
+    min-height: calc(100vh - 300px); /* Account for footer */
+    display: flex;
+    align-items: center;
+}
+
+.construction-page .page-notice {
+    margin: 4rem auto;
+    max-width: 800px;
+}
+
+.construction-page h1 {
+    color: var(--primary-color);
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
 } 
