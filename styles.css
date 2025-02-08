@@ -287,12 +287,33 @@ footer {
 /* Responsive Design */
 @media (max-width: 768px) {
     .navbar {
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+    }
+
+    .logo {
+        flex: 1;
+    }
+
+    .logo a {
+        font-size: 1.2rem;
     }
 
     .nav-links {
-        width: 100%;
         display: none;
+        width: 100%;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+    }
+
+    .nav-links.active {
+        display: flex;
+        flex-direction: column;
+        background: var(--primary-color);
+        padding: 1rem;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
     }
 
     .mobile-menu {
@@ -300,6 +321,8 @@ footer {
         background: none;
         border: none;
         cursor: pointer;
+        padding: 0.5rem;
+        margin-left: 1rem;
     }
 
     .mobile-menu span {
