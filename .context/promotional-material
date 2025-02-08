@@ -1,0 +1,26 @@
+I want to send a redesigned page to the foundation to review at their next board meeting.
+
+The page should be viewable on both mobile and desktop.
+
+The page should have a clean, modern design.
+
+The page should have a section for the foundation's mission and goals.
+
+The page should have a navigation bar with links to the following pages:
+- Home
+- News
+- Information
+- Events
+- Photos
+- Donate
+
+But all of the pages should say under construction.
+
+The page should have a footer with the following sections:
+- Home
+- News
+- Information
+- Events
+- Contact Us
+
+The page will be hosted on a vercel app.

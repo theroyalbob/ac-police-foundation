@@ -1,0 +1,13 @@
+The current website is built using wix. It has outdated information, and is not performant.
+
+The new website will be built using a modern stack that is performant and easier to maintain.
+
+I want to creare a more dynamic website that is easier to maintain. 
+
+I also want to integrate some functionality into the website to make it more useful.
+- The website should have integrated payments for donors (using Stripe and/or Paypal).
+- The website should have a better designed events calendar.
+- The website should have a better designed photo gallery.
+- The website should allow for online grant applications.
+- All forms on the website should integrat eand point to a single source of truth for the data.
+- When someone interacts with the website appropriate notifcaiton shoudl be sent to a single foundation email.

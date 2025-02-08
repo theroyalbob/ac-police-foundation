@@ -1,0 +1,23 @@
+The existing website has the following sections: Home, News, Infomration, Events, Photos, Donate, Join/Contacts Us. 
+
+The home page has a description of the foundations, founding purpose, and a description of how the foundation will accomplish it's goals
+
+The News secion has a list of announcements from the foundation with info@acpolicefoundation.org as the email address to inquire more.
+
+Information section has the following sub-sections: The Foundation, Foundation Inititives, Foundation Donors, Board, Grant Request form, and merchant guide.
+ - The Foundation sub-section has the same content as the home page description.
+ - Foundation Inititives has a list of inititives and two pictures of some of the inititives.
+ - The foundation donors has a list of donors.
+ - The Board has a list of board members (their title if not a basic board member) and a line about their proffession.
+ - The Grant Request form has a printable form to fill out and send to the foundation. .elements/forms/grant request form
+ - The merchant guide has a pdf with rules for merchants in AC. This pdf can be uploaded to the website later.
+
+The Events section has a list of events with RSVP button to the eventbrite page.
+- Currently it has different events listed on seperate pages but I would like to have a single page with all the events listed out.
+
+The photos page a scrollable list of photos with a caption imposed on the image.
+
+The Donate page has the PO Box address for direct donation and signup instruction for amazon Smile.
+
+The Join/Contacts Us page has a form to send a message to the foundation. It also has the PO Box and a link to the foundation facebook page.
+
