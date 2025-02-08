@@ -1,0 +1,10 @@
+---
+description: Technical Stack and Code Quality and style
+globs: 
+---
+“Suggest solutions using HTML5, CSS3, and JavaScript. React is preferred for frontend frameworks.”
+“Write code that adheres to standard ESLint rules and uses consistent formatting (Prettier defaults).”
+“Include comments explaining critical functions and any non-trivial design decisions.”
+
+
+

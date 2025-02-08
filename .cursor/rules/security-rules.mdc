@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+---
+“Ensure all code commits follow secure coding practices (e.g., sanitizing user input, using HTTPS, properly handling API keys).”
+“Highlight potential vulnerabilities in third-party libraries or frameworks and suggest mitigation where relevant.”

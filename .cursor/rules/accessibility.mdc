@@ -1,0 +1,6 @@
+---
+description: Accessibility in design
+globs: 
+---
+“All design and coding recommendations must aim to meet WCAG 2.1 AA standards for accessibility (e.g., appropriate color contrast, ARIA labels, keyboard navigation).”
+“Include tips or remarks on how to ensure images or interactive components are accessible.”
