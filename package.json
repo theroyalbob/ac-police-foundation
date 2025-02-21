@@ -16,5 +16,8 @@
     "url": "https://github.com/theroyalbob/ac-police-foundation/issues"
   },
   "homepage": "https://github.com/theroyalbob/ac-police-foundation#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.1.0"
+  }
 }
